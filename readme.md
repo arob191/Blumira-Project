@@ -3,3 +3,5 @@ The MSP that I have been working for at the time did not previously have a SOC t
 -Blumira
 -SecurityOnion
 -Microsoft Sentinel
+
+Next we spent time evaluating each of our options.
